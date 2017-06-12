@@ -9,3 +9,7 @@
 [Assignment week 6](https://github.com/Marijekok/Assignments/blob/master/assignment4%20(2).ipynb)
 
 [Assignment week 8](https://github.com/Marijekok/Assignments/blob/master/assignment5%20(1).ipynb)
+
+[Final R Assignment](https://github.com/Marijekok/Assignments/blob/master/OECD_R_exam.ipynb)
+
+
